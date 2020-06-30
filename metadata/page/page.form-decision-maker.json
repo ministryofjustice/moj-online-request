@@ -1,0 +1,33 @@
+{
+  "_id": "page.form-decision-maker",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.form-decision-maker--radios.auto_name__9",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.form-decision-maker--radios.auto_name__9--radio.auto_value__5",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.form-decision-maker--radios.auto_name__9--radio.auto_value__5--text.auto_name__10",
+            "_type": "text",
+            "label": "Name of decision-maker",
+            "name": "auto_name__10"
+          },
+          "label": "Yes",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.form-decision-maker--radios.auto_name__9--radio.auto_value__6",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__6"
+        }
+      ],
+      "legend": "Do you have approval from a senior decision-maker?",
+      "name": "auto_name__9"
+    }
+  ],
+  "url": "form-decision-maker"
+}

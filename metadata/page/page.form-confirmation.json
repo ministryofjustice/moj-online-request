@@ -1,0 +1,6 @@
+{
+  "_id": "page.form-confirmation",
+  "_type": "page.confirmation",
+  "heading": "Request sent",
+  "url": "form-confirmation"
+}
