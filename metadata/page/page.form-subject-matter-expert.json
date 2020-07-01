@@ -5,6 +5,7 @@
     {
       "_id": "page.form-subject-matter-expert--radios.auto_name__11",
       "_type": "radios",
+      "hint": "For example, and operations contact",
       "items": [
         {
           "_id": "page.form-subject-matter-expert--radios.auto_name__11--radio.auto_value__7",
@@ -25,7 +26,7 @@
           "value": "auto_value__8"
         }
       ],
-      "legend": "Do you have an available subject matter expert?",
+      "legend": "Do you have a subject matter expert available?",
       "name": "auto_name__11"
     }
   ],
