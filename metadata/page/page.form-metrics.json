@@ -1,0 +1,39 @@
+{
+  "_id": "page.form-metrics",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.form-metrics--radios.auto_name__13",
+      "_type": "radios",
+      "hint": "For example, analytics or staff satisfaction",
+      "items": [
+        {
+          "_id": "page.form-metrics--radios.auto_name__13--radio.auto_value__9",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.form-metrics--radios.auto_name__13--radio.auto_value__9--textarea.auto_name__14",
+            "_type": "textarea",
+            "label": "Metrics of the existing form",
+            "name": "auto_name__14"
+          },
+          "label": "Yes",
+          "value": "auto_value__9"
+        },
+        {
+          "_id": "page.form-metrics--radios.auto_name__13--radio.auto_value__10",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__10"
+        }
+      ],
+      "legend": "Do you have metrics of how the form is currently performing?",
+      "name": "auto_name__13"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__15",
+    "operator": "is",
+    "value": "auto_value__11"
+  },
+  "url": "form-metrics"
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "page.form-new-purpose",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.form-new-purpose--text.auto_name__16",
+      "_type": "text",
+      "hint": "Provide a brief description of what information is collected from users and what is done with that information.",
+      "label": "What will the new form be used for?",
+      "name": "auto_name__16"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__15",
+    "operator": "is",
+    "value": "auto_value__12"
+  },
+  "url": "form-new-purpose"
+}

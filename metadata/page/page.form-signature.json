@@ -1,0 +1,38 @@
+{
+  "_id": "page.form-signature",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.form-signature--radios.auto_name__21",
+      "_type": "radios",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.form-signature--radios.auto_name__21--radio.auto_value__11",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__11"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.form-signature--radios.auto_name__21--radio.auto_value__11--2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__11"
+        }
+      ],
+      "legend": "Does the form require a wet signature?",
+      "name": "auto_name__21"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__15",
+    "operator": "is",
+    "value": "auto_value__11"
+  },
+  "url": "form-signature"
+}
