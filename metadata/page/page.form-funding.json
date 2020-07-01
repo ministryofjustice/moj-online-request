@@ -23,6 +23,12 @@
           "_type": "radio",
           "label": "No",
           "value": "auto_value__2"
+        },
+        {
+          "_id": "page.form-funding--radios.auto_name__5--radio.auto_value__11",
+          "_type": "radio",
+          "label": "Not yet",
+          "value": "auto_value__11"
         }
       ],
       "legend": "Do you have budget to get this form online?",
