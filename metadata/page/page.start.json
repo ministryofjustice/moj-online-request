@@ -6,9 +6,7 @@
   "steps": [
     "page.form-existing",
     "page.form-details",
-    "page.existing-form-use",
     "page.form-new-purpose",
-    "page.multiple-applicants-2",
     "page.any-constraints",
     "page.form-new-data",
     "page.form-payment-2",

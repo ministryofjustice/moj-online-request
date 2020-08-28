@@ -3,12 +3,20 @@
   "_type": "page.form",
   "components": [
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.form-details--text.auto_name__1",
       "_type": "text",
       "label": "Form name",
       "name": "form_name"
     },
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.form-details--text.auto_name__2",
       "_type": "text",
       "hint": "For example, if a pdf version of the form is available online",

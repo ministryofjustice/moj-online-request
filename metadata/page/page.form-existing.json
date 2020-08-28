@@ -9,17 +9,17 @@
         {
           "_id": "page.form-existing--radios.auto_name__15--radio.auto_value__11",
           "_type": "radio",
-          "label": "Digitise an existing form",
+          "label": "Yes",
           "value": "yes"
         },
         {
           "_id": "page.form-existing--radios.auto_name__15--radio.auto_value__12",
           "_type": "radio",
-          "label": "Build a new online form",
+          "label": "No",
           "value": "no"
         }
       ],
-      "legend": "Do you want to digitise an existing form or build a new one?",
+      "legend": "Do you want to digitise an existing form?",
       "name": "existing_form"
     }
   ],
