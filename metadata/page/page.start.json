@@ -4,7 +4,6 @@
   "heading": "Request to build and publish an online form",
   "lede": "Use this form to make a request to build and publish an online form at the Ministry of Justice.",
   "steps": [
-    "page.form-name",
     "page.form-existing",
     "page.form-new-purpose",
     "page.form-url",
@@ -22,7 +21,8 @@
     "page.form-subject-matter-expert",
     "page.form-your-details",
     "page.form-check",
-    "page.form-confirmation"
+    "page.form-confirmation",
+    "page.form-details"
   ],
   "url": "/"
 }

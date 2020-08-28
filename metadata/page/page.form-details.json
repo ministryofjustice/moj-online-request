@@ -1,0 +1,20 @@
+{
+  "_id": "page.form-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.form-details--text.auto_name__1",
+      "_type": "text",
+      "label": "Form name",
+      "name": "auto_name__1"
+    },
+    {
+      "_id": "page.form-details--text.auto_name__2",
+      "_type": "text",
+      "label": "Form URL",
+      "name": "auto_name__2"
+    }
+  ],
+  "heading": "Form details",
+  "url": "form-details"
+}
