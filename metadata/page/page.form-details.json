@@ -20,5 +20,10 @@
     }
   ],
   "heading": "Form details",
+  "show": {
+    "identifier": "existing_form",
+    "operator": "is",
+    "value": "yes"
+  },
   "url": "form-details"
 }

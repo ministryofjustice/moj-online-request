@@ -14,9 +14,9 @@
     }
   ],
   "show": {
-    "identifier": "auto_name__15",
+    "identifier": "existing_form",
     "operator": "is",
-    "value": "auto_value__11"
+    "value": "yes"
   },
   "url": "form-url"
 }
