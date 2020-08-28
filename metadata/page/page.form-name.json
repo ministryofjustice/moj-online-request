@@ -5,14 +5,10 @@
     {
       "_id": "page.form-name--text.auto_name__1",
       "_type": "text",
-      "label": "What is the name of the paper form?",
+      "label": "What is the name of the form?",
       "name": "auto_name__1"
     }
   ],
-  "show": {
-    "identifier": "auto_name__15",
-    "operator": "is",
-    "value": "auto_value__11"
-  },
+  "show": true,
   "url": "form-name"
 }

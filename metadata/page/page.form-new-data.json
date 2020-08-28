@@ -10,10 +10,6 @@
       "name": "auto_name__18"
     }
   ],
-  "show": {
-    "identifier": "auto_name__15",
-    "operator": "is",
-    "value": "auto_value__12"
-  },
+  "show": true,
   "url": "form-new-data"
 }
