@@ -6,13 +6,17 @@
       "_id": "page.form-details--text.auto_name__1",
       "_type": "text",
       "label": "Form name",
-      "name": "auto_name__1"
+      "name": "form_name"
     },
     {
       "_id": "page.form-details--text.auto_name__2",
       "_type": "text",
-      "label": "Form URL",
-      "name": "auto_name__2"
+      "hint": "For example, if a pdf version of the form is available online",
+      "label": "Form URL (optional)",
+      "name": "form_url",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "heading": "Form details",
