@@ -13,10 +13,10 @@
     "page.form-payment-2",
     "page.form-new-data",
     "page.any-constraints",
-    "page.form-funding",
-    "page.form-deadline",
     "page.form-decision-maker",
     "page.form-subject-matter-expert",
+    "page.form-deadline",
+    "page.form-funding",
     "page.form-your-details",
     "page.form-check",
     "page.form-confirmation"
