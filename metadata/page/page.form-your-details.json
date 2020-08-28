@@ -3,22 +3,24 @@
   "_type": "page.form",
   "components": [
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.form-your-details--text.auto_name__23",
       "_type": "text",
       "label": "Full name",
       "name": "auto_name__23"
     },
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.form-your-details--text.auto_name__24",
       "_type": "text",
       "label": "Email address",
       "name": "auto_name__24"
-    },
-    {
-      "_id": "page.form-your-details--number.auto_name__25",
-      "_type": "number",
-      "label": "Phone number",
-      "name": "auto_name__25"
     }
   ],
   "heading": "Your contact details",
