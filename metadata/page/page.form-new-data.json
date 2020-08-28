@@ -7,7 +7,7 @@
       "_type": "text",
       "hint": "For example, in a case management",
       "label": "Where do you plan to store the form data?",
-      "name": "auto_name__18"
+      "name": "store_data"
     }
   ],
   "show": true,

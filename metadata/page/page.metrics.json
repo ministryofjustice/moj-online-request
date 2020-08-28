@@ -14,20 +14,20 @@
             "_id": "page.metrics--radios.auto_name__3--radio.auto_value__12--textarea.auto_name__4",
             "_type": "textarea",
             "label": "Give details",
-            "name": "auto_name__4"
+            "name": "details"
           },
           "label": "Yes",
-          "value": "auto_value__12"
+          "value": "yes"
         },
         {
           "_id": "page.metrics--radios.auto_name__3--radio.auto_value__13",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__13"
+          "value": "no"
         }
       ],
       "legend": "Do you have any metrics to show how the form is currently performing?",
-      "name": "auto_name__3"
+      "name": "form_metrics"
     }
   ],
   "show": {

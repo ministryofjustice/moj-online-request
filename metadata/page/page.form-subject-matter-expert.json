@@ -14,20 +14,20 @@
             "_id": "page.form-subject-matter-expert--radios.auto_name__11--radio.auto_value__7--text.auto_name__12",
             "_type": "text",
             "label": "Name of subject matter expert",
-            "name": "auto_name__12"
+            "name": "sme_name"
           },
           "label": "Yes",
-          "value": "auto_value__7"
+          "value": "yes"
         },
         {
           "_id": "page.form-subject-matter-expert--radios.auto_name__11--radio.auto_value__8",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__8"
+          "value": "no"
         }
       ],
       "legend": "Do you have a subject matter expert available?",
-      "name": "auto_name__11"
+      "name": "subject_matter_expert"
     }
   ],
   "url": "subject-matter-expert"

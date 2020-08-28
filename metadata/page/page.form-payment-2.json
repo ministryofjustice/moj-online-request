@@ -10,17 +10,17 @@
           "_id": "page.form-payment-2--radios.auto_name__20--radio.auto_value__11",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__11"
+          "value": "yes"
         },
         {
           "_id": "page.form-payment-2--radios.auto_name__20--radio.auto_value__11--2",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__11"
+          "value": "no"
         }
       ],
       "legend": "Does the form require users to make a payment?",
-      "name": "auto_name__20"
+      "name": "make_payment"
     }
   ],
   "url": "payment"

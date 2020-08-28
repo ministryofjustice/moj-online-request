@@ -7,7 +7,7 @@
       "_type": "text",
       "hint": "Provide a brief description of what information is collected from users and what is done with that information.",
       "label": "What will the online form be used for?",
-      "name": "auto_name__16"
+      "name": "form_use"
     }
   ],
   "show": true,

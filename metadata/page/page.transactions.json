@@ -7,7 +7,7 @@
       "_type": "text",
       "hint": "You can give an approximate number",
       "label": "How many transactions does the form receive a year?",
-      "name": "auto_name__2"
+      "name": "transactions"
     }
   ],
   "show": {
