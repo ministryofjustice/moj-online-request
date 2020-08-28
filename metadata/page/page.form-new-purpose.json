@@ -6,10 +6,14 @@
       "_id": "page.form-new-purpose--text.auto_name__16",
       "_type": "text",
       "hint": "Provide a brief description of what information is collected from users and what is done with that information.",
-      "label": "What will the form be used for?",
+      "label": "What will the new form be used for?",
       "name": "auto_name__16"
     }
   ],
-  "show": true,
+  "show": {
+    "identifier": "existing_form",
+    "operator": "is",
+    "value": "no"
+  },
   "url": "form-new-purpose"
 }
