@@ -10,6 +10,12 @@
         {
           "_id": "page.metrics--radios.auto_name__3--radio.auto_value__12",
           "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.metrics--radios.auto_name__3--radio.auto_value__12--textarea.auto_name__4",
+            "_type": "textarea",
+            "label": "Give details",
+            "name": "auto_name__4"
+          },
           "label": "Yes",
           "value": "auto_value__12"
         },
