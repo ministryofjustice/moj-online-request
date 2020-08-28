@@ -7,6 +7,7 @@
     "page.form-existing",
     "page.form-details",
     "page.transactions",
+    "page.metrics",
     "page.form-new-purpose",
     "page.people",
     "page.form-payment-2",
@@ -18,8 +19,7 @@
     "page.form-subject-matter-expert",
     "page.form-your-details",
     "page.form-check",
-    "page.form-confirmation",
-    "page.metrics"
+    "page.form-confirmation"
   ],
   "url": "/"
 }

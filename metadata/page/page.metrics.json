@@ -3,10 +3,31 @@
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.metrics--text.auto_name__3",
-      "_type": "text",
+      "_id": "page.metrics--radios.auto_name__3",
+      "_type": "radios",
+      "hint": "For example, analytics data or a staff satisfaction rating",
+      "items": [
+        {
+          "_id": "page.metrics--radios.auto_name__3--radio.auto_value__12",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__12"
+        },
+        {
+          "_id": "page.metrics--radios.auto_name__3--radio.auto_value__13",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__13"
+        }
+      ],
+      "legend": "Do you have any metrics to show how the form is currently performing?",
       "name": "auto_name__3"
     }
   ],
-  "url": "metrics"
+  "show": {
+    "identifier": "existing_form",
+    "operator": "is",
+    "value": "yes"
+  },
+  "url": "numbers"
 }
