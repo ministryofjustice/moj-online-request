@@ -6,10 +6,8 @@
   "steps": [
     "page.form-existing",
     "page.form-details",
-    "page.form-use",
+    "page.existing-form-use",
     "page.form-new-purpose",
-    "page.form-volume",
-    "page.form-metrics",
     "page.multiple-applicants-2",
     "page.any-constraints",
     "page.form-new-data",
