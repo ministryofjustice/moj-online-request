@@ -10,10 +10,6 @@
       "name": "auto_name__16"
     }
   ],
-  "show": {
-    "identifier": "existing_form",
-    "operator": "is",
-    "value": "no"
-  },
+  "show": true,
   "url": "form-new-purpose"
 }
