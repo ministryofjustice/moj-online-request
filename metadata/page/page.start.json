@@ -5,8 +5,8 @@
   "lede": "Use this form to make a request to build and publish an online form at the Ministry of Justice.",
   "steps": [
     "page.form-name",
-    "page.form-new-purpose",
     "page.form-existing",
+    "page.form-new-purpose",
     "page.form-url",
     "page.form-volume",
     "page.form-metrics",
